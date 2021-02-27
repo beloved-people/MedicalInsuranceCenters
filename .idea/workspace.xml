@@ -1,322 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fbe15dc8-962f-4265-b615-ab3d6a82fe06" name="Default Changelist" comment="1">
-      <change afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.settings/.jsdtscope" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.wst.common.component" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.wst.common.project.facet.core.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.wst.jsdt.ui.superType.container" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.wst.jsdt.ui.superType.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MedicalInsuranceCenters.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/AddPersonnel.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/AddUnitInfo.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/DesignatedMedicalInstitutions.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/DiagnosisAndTreatmentProject.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/Disease.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/DrugInfo1.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/DrugInfo2.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/Login.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/ModifyPassword.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/OperatorInfo.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/Opertor.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/PrintList.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/QueryPersonnel.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/QueryUnitInfo.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/Register.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/ServiceFacility.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/ShowDesignatedMedicalInstitutions.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/ShowDisease.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/ShowServiceFacility.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/commons-dbcp2-2.7.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/commons-logging-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/commons-pool2-2.7.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/log4j-1.2.17.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/mysql-connector-java-8.0.15.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/taglibs-standard-compat-1.2.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/taglibs-standard-impl-1.2.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/taglibs-standard-jstlel-1.2.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/taglibs-standard-spec-1.2.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/Welcome.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/css/DiagnosisAndTreatmentProject.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/css/bootstrap-theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/css/bootstrap-theme.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/css/bootstrap-theme.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/css/bootstrap-theme.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/css/login.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/css/register.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/css/welcome.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/img/flat-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/js/controlPage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/js/drug.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/js/gVerify.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/js/getVerify.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/js/jquery-3.2.1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/js/jquery-3.2.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/js/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/js/login.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/js/npm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/js/register.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/vue/vue-resource.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/vue/vue-router.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/vue/vue.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/vue/vue.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/dao/CompanyInfoDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/dao/CompanyInfoDaoImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/dao/DesignatedMedicalInstitutionsDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/dao/DiagnosisAndTreatmentProjectDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/dao/DiseaseDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/dao/DrugInfoDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/dao/OperatorDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/dao/PersonInfoDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/dao/PersonnelVisitInformationDao1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/dao/PrescriptionDetailsDao1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/dao/ServiceFacilityDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/dao/UnitInfoDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/dao/implement/DesignatedMedicalInstitutionsDaoImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/dao/implement/DiagnosisAndTreatmentProjectDaoImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/dao/implement/DiseaseDaoImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/dao/implement/DrugInfoDaoImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/dao/implement/OperatorDaoImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/dao/implement/PersonInfoDaoImpl4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/dao/implement/PersonnelVisitInformationDaoImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/dao/implement/PrescriptionDetailsDaoImpl2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/dao/implement/ServiceFacilityDaoImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/dao/implement/UnitInfoDaoImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/entity/AccumulatedInformationOfIndividualAnnualExpenses.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/entity/AdministrativeDuties.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/entity/CertificateType.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/entity/Chufang.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/entity/CompanyInfo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/entity/DesignatedMedicalInstitutionsInfo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/entity/DiagnosisAndTreatmentProjectInfo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/entity/DiseaseInfo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/entity/DiseaseType.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/entity/DosageForm.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/entity/DrugInfo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/entity/EducationDegree.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/entity/LimitLine.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/entity/MedicalInstitutionType.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/entity/MedicalPersonnelCategory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/entity/Nation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/entity/OperationRecord.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/entity/OperatorInfo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/entity/PageBean.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/entity/PageBean4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/entity/PaymentRatio.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/entity/PaymentStandard.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/entity/PersonInfo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/entity/PersonInfo4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/entity/PersonnelVisitInformation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/entity/PoliticalOutlook.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/entity/PrescriptionDetails.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/entity/ServiceFacilityInfo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/entity/UnitInfo4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/entity/UsageFrequency.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/entity/Usages.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/filter/Filter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/service/DesignatedMedicalInstitutionsService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/service/DiagnosisAndTreatmentProjectService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/service/DiseaseService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/service/DrugInfoService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/service/OperatorService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/service/PersonInfoService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/service/ServiceFacilityService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/service/UnitInfoService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/service/implement/Chufangservice.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/service/implement/Chufangservice2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/service/implement/Chufangservice3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/service/implement/DaxiaoImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/service/implement/DesignatedMedicalInstitutionsServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/service/implement/DiagnosisAndTreatmentProjectServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/service/implement/DiseaseServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/service/implement/DrugInfoServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/service/implement/OperatorServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/service/implement/PersonInfoServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/service/implement/ServiceFacilityServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/service/implement/UnitInfoServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/servlet/AddDesignatedMedicalInstitutionsServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/servlet/AddDiagnosisAndTreatmentProjectServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/servlet/AddDisease.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/servlet/AddPersonnel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/servlet/AddServiceFacility.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/servlet/AddUnitInfo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/servlet/DeleteDesignatedMedicalInstitutionsServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/servlet/DeleteDiagnosisAndTreatmentProjectServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/servlet/DeleteDisease.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/servlet/DeletePersonnel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/servlet/DeleteServiceFacilityServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/servlet/DeleteUnitInfo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/servlet/DrugInfo1Servlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/servlet/DrugInfoModfiyServlt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/servlet/DrugInfoServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/servlet/DrugInfodelServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/servlet/GetOperator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/servlet/LoginServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/servlet/LogoutServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/servlet/ModifyPersonnel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/servlet/ModifyPwd.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/servlet/ModifyUnitInfo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/servlet/OperatorModifyServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/servlet/OperatorQuaryallServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/servlet/OperatorSelf.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/servlet/PersonInfoPaging.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/servlet/QueryPersonnel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/servlet/QueryUnitInfo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/servlet/Register.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/servlet/ShowDesignatedMedicalInstitutionsServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/servlet/ShowDiagnosisAndTreatmentProjectServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/servlet/ShowDisease.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/servlet/ShowServiceFacilityServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/servlet/UnitInfoPaging.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/servlet/UpdateDesignatedMedicalInstitutionsServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/servlet/UpdateDiagnosisAndTreatmentProjectServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/servlet/UpdateDisease.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/servlet/UpdateServiceFacilityServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/servlet/lilongx/Dayin.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/test/text.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/utils/dbutils/Dbutil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/utils/reverse/GetUUID.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/neuedu/utils/reverse/ResultSetToMapOfList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/database.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/dao/CompanyInfoDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/dao/CompanyInfoDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/dao/DesignatedMedicalInstitutionsDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/dao/DiagnosisAndTreatmentProjectDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/dao/DiseaseDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/dao/DrugInfoDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/dao/OperatorDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/dao/PersonInfoDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/dao/PersonnelVisitInformationDao1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/dao/PrescriptionDetailsDao1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/dao/ServiceFacilityDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/dao/UnitInfoDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/dao/implement/DesignatedMedicalInstitutionsDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/dao/implement/DiagnosisAndTreatmentProjectDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/dao/implement/DiseaseDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/dao/implement/DrugInfoDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/dao/implement/OperatorDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/dao/implement/PersonInfoDaoImpl4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/dao/implement/PersonnelVisitInformationDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/dao/implement/PrescriptionDetailsDaoImpl2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/dao/implement/ServiceFacilityDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/dao/implement/UnitInfoDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/entity/AccumulatedInformationOfIndividualAnnualExpenses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/entity/AdministrativeDuties.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/entity/CertificateType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/entity/Chufang.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/entity/CompanyInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/entity/DesignatedMedicalInstitutionsInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/entity/DiagnosisAndTreatmentProjectInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/entity/DiseaseInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/entity/DiseaseType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/entity/DosageForm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/entity/DrugInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/entity/EducationDegree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/entity/LimitLine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/entity/MedicalInstitutionType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/entity/MedicalPersonnelCategory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/entity/Nation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/entity/OperationRecord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/entity/OperatorInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/entity/PageBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/entity/PageBean4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/entity/PaymentRatio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/entity/PaymentStandard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/entity/PersonInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/entity/PersonInfo4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/entity/PersonnelVisitInformation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/entity/PoliticalOutlook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/entity/PrescriptionDetails.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/entity/ServiceFacilityInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/entity/UnitInfo4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/entity/UsageFrequency.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/entity/Usages.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/filter/Filter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/service/DesignatedMedicalInstitutionsService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/service/DiagnosisAndTreatmentProjectService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/service/DiseaseService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/service/DrugInfoService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/service/OperatorService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/service/PersonInfoService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/service/ServiceFacilityService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/service/UnitInfoService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/service/implement/Chufangservice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/service/implement/Chufangservice2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/service/implement/Chufangservice3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/service/implement/DaxiaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/service/implement/DesignatedMedicalInstitutionsServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/service/implement/DiagnosisAndTreatmentProjectServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/service/implement/DiseaseServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/service/implement/DrugInfoServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/service/implement/OperatorServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/service/implement/PersonInfoServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/service/implement/ServiceFacilityServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/service/implement/UnitInfoServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/servlet/AddDesignatedMedicalInstitutionsServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/servlet/AddDiagnosisAndTreatmentProjectServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/servlet/AddDisease.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/servlet/AddPersonnel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/servlet/AddServiceFacility.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/servlet/AddUnitInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/servlet/DeleteDesignatedMedicalInstitutionsServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/servlet/DeleteDiagnosisAndTreatmentProjectServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/servlet/DeleteDisease.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/servlet/DeletePersonnel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/servlet/DeleteServiceFacilityServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/servlet/DeleteUnitInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/servlet/DrugInfo1Servlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/servlet/DrugInfoModfiyServlt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/servlet/DrugInfoServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/servlet/DrugInfodelServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/servlet/GetOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/servlet/LoginServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/servlet/LogoutServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/servlet/ModifyPersonnel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/servlet/ModifyPwd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/servlet/ModifyUnitInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/servlet/OperatorModifyServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/servlet/OperatorQuaryallServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/servlet/OperatorSelf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/servlet/PersonInfoPaging.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/servlet/QueryPersonnel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/servlet/QueryUnitInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/servlet/Register.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/servlet/ShowDesignatedMedicalInstitutionsServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/servlet/ShowDiagnosisAndTreatmentProjectServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/servlet/ShowDisease.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/servlet/ShowServiceFacilityServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/servlet/UnitInfoPaging.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/servlet/UpdateDesignatedMedicalInstitutionsServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/servlet/UpdateDiagnosisAndTreatmentProjectServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/servlet/UpdateDisease.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/servlet/UpdateServiceFacilityServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/servlet/lilongx/Dayin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/test/text.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/utils/dbutils/Dbutil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/utils/reverse/GetUUID.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neuedu/utils/reverse/ResultSetToMapOfList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/database.properties" afterDir="false" />
+    <list default="true" id="fbe15dc8-962f-4265-b615-ab3d6a82fe06" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -340,6 +26,19 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="vcs.Subversion" />
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration" cleanupOnStartRun="true">
     <configuration>C:\Users\WangShun\AppData\Roaming\Subversion</configuration>
@@ -353,8 +52,16 @@
       <option name="presentableId" value="Default" />
       <updated>1614394740991</updated>
       <workItem from="1614394742264" duration="714000" />
-      <workItem from="1614397243168" duration="1292000" />
+      <workItem from="1614397243168" duration="1920000" />
     </task>
+    <task id="LOCAL-00001" summary="1">
+      <created>1614400242553</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1614400242553</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
