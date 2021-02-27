@@ -1,0 +1,5 @@
+.center-vertical{
+    position: relative;
+    top:20%;
+    transform:translateY(20%);
+}

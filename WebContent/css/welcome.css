@@ -1,0 +1,137 @@
+a{
+	text-decoration:none;
+}
+a:link{
+	text-decoration:none;
+}
+a:visited{
+	text-decoration:none;
+}
+a:hover{
+	color:#333;
+	transition: .9s;
+	text-decoration:none;
+}
+a:active{
+	text-decoration:none;
+}
+
+.navbar-fixed-top{
+    z-index: 5;
+    height: 64px;
+    background: rgba(255,255,255,0.9);
+    box-shadow: 0 6px 0 0 rgba(0, 0, 0, 0.01), 0 15px 32px 0 rgba(0, 0, 0, 0.06);
+}
+
+.sidenav-main{
+    position: fixed;
+    z-index: 999;
+    width: 260px;
+    height: 100%;
+    transition: .3s ease all;
+}
+.brand-sidebar{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: inherit;
+    height: 64px;
+    background: linear-gradient(45deg, #6200ea, #1976d2) !important;
+    box-shadow: 0 4px 7px 0 rgba(0, 0, 0, .2);
+    backface-visibility: hidden;
+}
+.brand-sidebar .logo-wapper{
+    font-size: 3rem;
+    line-height: 17px !important;
+    margin: 0;
+    white-space: nowrap;
+}
+
+.brand-sidebar .logo-wapper .brand-logo{
+    font-size: 2.1rem;
+    position: absolute;
+    display: inline-block;
+    margin: 1px 0;
+    padding: 22px 12px;
+    color: #fcf8e3;
+}
+
+.brand-sidebar .logo-wapper .brand-text {
+    font-size: 24px;
+    visibility: visible;
+    padding-left: 8px;
+    transition: opacity .2s linear;
+    opacity: 1;
+}
+.sidenav{
+   position: fixed;
+    left: 0;
+    width: inherit;
+    margin: 0;
+    border: none;
+    padding-bottom: 60px;
+    background: linear-gradient(45deg, #6200ea, #1976d2) !important;
+    will-change: transform;
+	z-index: 999;
+    top: 64px;
+    width: inherit;
+    height: 100%;
+    padding-left: 0;
+    list-style-type: none;
+    transition: auto !important;
+    border: none;
+    box-shadow: 0 4px 7px 0 rgba(0, 0, 0, .2);
+    backface-visibility: hidden;
+}
+
+.ps{
+    overflow: hidden!important;
+    overflow-anchor: none;
+}
+.sidenav li{
+    margin-right: 16px;
+    padding: 0 0 0 16px;
+    line-height: 44px;
+    float: none;
+}
+
+
+.sidenav .menu-title{
+    visibility: visible;
+    margin:0 20px;
+    transition: opacity .2s linear;
+    opacity: 1;
+}
+.orange{
+    background-color: #ff9800 !important;
+}
+.collapsible-header{
+	color: #fcf8e3;
+	font-weight: bolder;
+    font-size: 16px;
+}
+.collapsible-body{
+    background: transparent;
+    padding: 0;
+    padding: 0;
+    display: none;
+    box-sizing: border-box;
+}
+
+.collapsible-body .list-group-item{
+    border: none;
+}
+.collapsible-body .list-group-item:hover{
+    border: none;
+    background:#d9edf7;
+    transition: .3s ease all;
+}
+#main{
+	padding:64px 0 0 260px ;
+    min-height: calc(100% - 116px);
+    backface-visibility: hidden;
+    transition: .3s ease all;
+}
+
+
+

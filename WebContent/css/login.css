@@ -1,0 +1,47 @@
+html,body{
+    background-color: #f9f9f9;
+    height: 100%;
+    background-image: url("../img/flat-bg.jpg");
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    background-size: cover;
+    user-select: none;
+}
+
+.center-vertical{
+    position: relative;
+    top:50%;
+    transform:translateY(50%);
+}
+
+.container-fluid h2{
+    margin-left: 4%;
+    margin-bottom: 4%;
+}
+
+.container-fluid .panel{
+    background-color: rgba(255, 255, 255, .8);
+}
+
+.container-fluid input{
+    background-color: rgba(255, 255, 255, .56);
+}
+
+.container-fluid a{
+    display: block;
+    margin-bottom: 20px;
+}
+
+.container-fluid button{
+    border-radius: 150px !important;
+    transition: .3s ease-out;
+    -webkit-tap-highlight-color: transparent;
+    border: none;
+    letter-spacing: .5px;
+    color: #fff;
+    background: linear-gradient(45deg, #8e24aa, #ff6e40) !important;
+    outline: none;
+}
+
+
+
